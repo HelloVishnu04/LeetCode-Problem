@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/HelloVishnu04/LeetCode-Problem/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/HelloVishnu04/LeetCode-Problem/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -14,9 +15,14 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/HelloVishnu04/LeetCode-Problem/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/HelloVishnu04/LeetCode-Problem/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/HelloVishnu04/LeetCode-Problem/tree/master/1004-max-consecutive-ones-iii) |
+## Hash Table
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/HelloVishnu04/LeetCode-Problem/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
