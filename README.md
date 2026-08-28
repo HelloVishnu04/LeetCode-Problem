@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/HelloVishnu04/LeetCode-Problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HelloVishnu04/LeetCode-Problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/HelloVishnu04/LeetCode-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0904-fruit-into-baskets](https://github.com/HelloVishnu04/LeetCode-Problem/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/HelloVishnu04/LeetCode-Problem/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
@@ -15,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/HelloVishnu04/LeetCode-Problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HelloVishnu04/LeetCode-Problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/HelloVishnu04/LeetCode-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/HelloVishnu04/LeetCode-Problem/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
